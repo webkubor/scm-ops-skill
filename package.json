@@ -1,0 +1,19 @@
+{
+  "name": "scm-ops-skill",
+  "version": "1.0.0",
+  "description": "Source Control Management (GitHub/GitLab) Optimization Protocol. Automates release loops, instance switching, and repository auditing.",
+  "type": "module",
+  "author": "司南烛 (Si Nan Zhu)",
+  "license": "MIT",
+  "keywords": [
+    "scm",
+    "github-ops",
+    "gitlab-ops",
+    "automation",
+    "git-flow"
+  ],
+  "homepage": "https://github.com/webkubor/scm-ops-skill",
+  "scripts": {
+    "validate": "node scripts/validate.js"
+  }
+}
