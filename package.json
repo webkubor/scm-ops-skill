@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Source Control Management (GitHub/GitLab) Optimization Protocol. Automates release loops, instance switching, and repository auditing.",
   "type": "module",
-  "author": "司南烛 (Si Nan Zhu)",
+  "author": "webkubor",
   "license": "MIT",
   "keywords": [
     "scm",
@@ -15,5 +15,16 @@
   "homepage": "https://github.com/webkubor/scm-ops-skill",
   "scripts": {
     "validate": "node scripts/validate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webkubor/scm-ops-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webkubor/scm-ops-skill/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }

@@ -2,7 +2,7 @@
 name: scm-ops-skill
 description: "SCM (GitHub/GitLab) Optimization Protocol. Optimized for multi-instance repository management and automated release loops."
 version: 1.0.0
-author: "司南烛 (Si Nan Zhu)"
+author: "webkubor"
 license: "MIT"
 keywords: ["scm", "github-ops", "gitlab-ops", "git-flow", "automation"]
 allowed-tools: ["run_command", "list_dir", "grep_search"]
